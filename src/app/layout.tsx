@@ -12,7 +12,7 @@ export const metadata = {
     { name: "Mohammad" },
     {
       name: "Mohammad",
-      url: "https://github.com/mamad-1999",
+      url: "https://github.com/blackechox",
     },
   ],
   viewport:
