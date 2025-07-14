@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@types/howler": "^2.2.12",
-    "@types/node": "^22",
+    "@types/node": "^24",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "autoprefixer": "10.4.21",
